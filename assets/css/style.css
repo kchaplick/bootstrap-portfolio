@@ -58,3 +58,7 @@ p.card-text{
     color:white;
     text-align: center;
 }
+
+.imageFloat{
+    float: left;
+}
